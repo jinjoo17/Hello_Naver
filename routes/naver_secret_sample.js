@@ -8,7 +8,7 @@
 */
 module.exports = {
 		
-		client_id='KPPehVmvNuAdOo016BKn',
-		client_secret='tDwFeNO6oZ'
+		client_id : 'KPPehVmvNuAdOo016BKn',
+		client_secret :'tDwFeNO6oZ'
 		
 }
